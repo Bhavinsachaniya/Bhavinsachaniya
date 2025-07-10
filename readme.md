@@ -9,10 +9,7 @@ Note: GitHub markdown does not support true animated backgrounds, but we can sim
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=800&color=48CAE4&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Bhavin+Sachaniya!;Full+Stack+Web+Developer+%7C+UI%2FUX+Enthusiast;AI+Explorer+%7C+IT+Engineer;Welcome+to+my+Portfolio!+%F0%9F%8C%88" alt="Typing SVG"/>
 </p>
 
-<!-- Animated SVG background simulation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Code Animation"/>
-</p>
+
 
 <!-- Animated SVG Waves (Soft Pastel Gradient) -->
 <p align="center">
