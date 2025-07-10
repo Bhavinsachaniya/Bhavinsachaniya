@@ -109,7 +109,6 @@ Note: GitHub markdown does not support true animated backgrounds, but we can sim
 <ul>
   <li>Vice President, Techno Club – Orchestrated 10+ college events</li>
   <li>Figma Workshop Trainer – Taught 50+ students the UX ropes</li>
-  <li>NGO Volunteering – Built tracking/monitoring systems</li>
   <li>🎸 Guitar, 🎥 Photography, ✈️ Travel explorer</li>
 </ul>
 </div>
