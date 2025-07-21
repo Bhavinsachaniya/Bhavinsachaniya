@@ -117,7 +117,7 @@ Text is #FDF5E8, with soft gradients and varying cream shades for visual interes
   <table>
     <tr>
       <td align="center" width="48%" style="background:linear-gradient(120deg,#FDF5E8 60%,#F8EED9 100%);border-radius:18px;padding:13px">
-        <a href="https://github.com/Bhavinsachaniya/ResumeBuilder-AI" target="_blank" style="text-decoration:none;">
+        <a href="https://github.com/Bhavinsachaniya/Resume-Gen" target="_blank" style="text-decoration:none;">
           <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="42"/><br>
           <b style="color:#FDF5E8;">Resume Builder with AI</b>
         </a>
