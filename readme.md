@@ -133,14 +133,14 @@ Text is #FDF5E8, with soft gradients and varying cream shades for visual interes
     </tr>
     <tr>
       <td align="center" width="48%" style="background:linear-gradient(120deg,#F8EED9 60%,#FDF5E8 100%);border-radius:18px;padding:13px">
-        <a href="https://github.com/Bhavinsachaniya/Jawab-ChatBot" target="_blank" style="text-decoration:none;">
+        <a href="https://www.youtube.com/watch?si=Wh5_yuqgf8uMySeG&v=pBZBUYmBH_8&feature=youtu.be" target="_blank" style="text-decoration:none;">
           <img src="https://img.icons8.com/color/96/robot-2.png" width="42"/><br>
           <b style="color:#FDF5E8;">Jawab - Chat Bot Service</b>
         </a>
         <p style="font-size:13px;color:#F2E6CE;">Async scraping + Gemini AI Q&A bot (Flask API)</p>
       </td>
       <td align="center" width="48%" style="background:linear-gradient(120deg,#FDF5E8 60%,#F2E6CE 100%);border-radius:18px;padding:13px">
-        <a href="https://www.figma.com/@Bhavinsachaniya" target="_blank" style="text-decoration:none;">
+        <a href="https://www.figma.com/design/lKyFGPZmRLbqTkH0hRC4hk/portfolio?node-id=100-362&t=sSyfJlrj2cy2YL4T-1" target="_blank" style="text-decoration:none;">
           <img src="https://img.icons8.com/color/96/design--v2.png" width="42"/><br>
           <b style="color:#FDF5E8;">Figma Design Systems</b>
         </a>
