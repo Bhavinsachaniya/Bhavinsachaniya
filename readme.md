@@ -6,7 +6,7 @@ Text is #FDF5E8, with soft gradients and varying cream shades for visual interes
 
 <!-- FULL WIDTH BACKGROUND IMAGE WITH HERO ANIMATION OVERLAY -->
 <div align="center" style="position:relative;width:100%;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGY2_TLCnclbg/profile-displaybackgroundimage-shrink_350_1400/B4DZpeJryUIMAY-/0/1762516189366?e=1765411200&v=beta&t=ImAIXZ5Ei0xyYl5Z1_Lcp074W2n79-JN79cFJXmdv6g" width="100%" style="min-width:340px;max-height:340px;object-fit:cover;filter:brightness(0.93) blur(0.1px);border-radius:0 0 42px 42px;box-shadow:0 8px 54px 0 #fdf5e8 ;z-index:1;" alt="Bhavin Sachaniya Banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGY2_TLCnclbg/profile-displaybackgroundimage-shrink_350_1400/B4DZpeJryUIMAY-/0/1762516189366?e=1767830400&v=beta&t=olkKmiIfqvi2HQe3cLnxc41SEvjyoRyvUYuGqeZcvcg" width="100%" style="min-width:340px;max-height:340px;object-fit:cover;filter:brightness(0.93) blur(0.1px);border-radius:0 0 42px 42px;box-shadow:0 8px 54px 0 #fdf5e8 ;z-index:1;" alt="Bhavin Sachaniya Banner"/>
   <div style="margin-top:-180px;padding:0 0 40px 0;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=650&color=FDF5E8&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Bhavin+Sachaniya!;Full+Stack+Web+Developer+%7C+UI%2FUX+Enthusiast;AI+Explorer+%7C+IT+Engineer;Welcome+to+my+Portfolio!+%F0%9F%8C%88" alt="Typing SVG"/>
   </div>
